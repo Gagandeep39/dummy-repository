@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SocialApplication<social-simple>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.SocialApplication",
+            "projectName": "social-simple",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SocialApplication<social-logout>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.SocialApplication",
+            "projectName": "social-logout",
+            "args": ""
+        }
+    ]
+}
